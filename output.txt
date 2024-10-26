@@ -1,0 +1,19 @@
+uthentication and Access Control 
+
+As an employee, I want to authenticate into the EKMS using my existing SSO credentials so that I don’t need to provide login details again and can access the system securely. 
+
+As an employee with specific privileges, I want to use my existing access rights so that I can access the functionalities relevant to my role without having to request additional permissions. 
+
+SOP Creation, Review, and Publication 
+
+As an SOP creator, I want to create new SOPs in the system so that I can standardize procedures and make them available for review. 
+
+As an SOP reviewer, I want to review SOP drafts and provide feedback so that the document meets the required standards before it is published. 
+
+As an SOP publisher, I want to publish approved SOPs for specific groups or departments so that the right people have access to the most up-to-date procedures. 
+
+Reading Published SOPs 
+
+As an employee, I want to read published SOPs so that I can follow the guidelines and perform my duties in compliance with company standards. 
+
+As a new hire, I want personalized access to the SOPs relevant to my role so that I can quickly learn my responsibilities and 

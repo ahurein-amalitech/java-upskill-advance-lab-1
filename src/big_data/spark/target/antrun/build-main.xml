@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <move file="/home/amalitechpc4100602/disk_d/UpSkilling/Java/labs/advanced/advance_lab_1/src/big_data/spark/target/spark.jar" todir="/home/amalitechpc4100602/docker_volume/spark"/>
+</target>
+</project>
